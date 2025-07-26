@@ -29,13 +29,6 @@ I'm a passionate and self-driven developer, currently pursuing my degree and liv
 | [Coding Support Hub](https://github.com/yourusername/coding-support-hub) 💡 | Curated web platform for coding learners with categorized resources, custom descriptions, and clean UI. Features sections for Web Dev, Backend, DevOps & more. |
 | [Razorpay Clone](https://github.com/yourusername/razorpay-clone) 💸 | Responsive frontend Razorpay UI clone built with React and Tailwind. |
 | [Gesture-Based Games](https://github.com/yourusername/gesture-games) 🕹 | Play games using your hands! Built with Python, OpenCV, and MediaPipe. 
-"
-
----
-
-### 📸 Photography & Creativity
-
-I believe in storytelling not just through code and rap, but also through visuals. I enjoy capturing hostel life, streetscapes, and raw moments. Planning to launch a digital gallery soon!
 
 ---
 
@@ -49,7 +42,6 @@ I believe in storytelling not just through code and rap, but also through visual
 
 ### 🧾 Fun Facts & Current Status
 
-- 🏋️‍♂️ Early morning gym sessions — working on weight loss with hostel-friendly diet
 - 📖 Exploring AI with hands-on projects like RAG & Fine-Tuning GANs
 - 📍 Pune, India 🇮🇳 | Always looking to learn, build, and collaborate
 
