@@ -50,9 +50,8 @@ I'm a passionate and self-driven developer, currently pursuing my degree and liv
 ### 📬 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/sarthak-chavan)
-- 🌐 [Portfolio](https://yourportfolio.com)
 - 📝 [Medium Blog](https://medium.com/@yourhandle)
-- 📫 Email: yourname@gmail.com
+- 📫 Email: sarthakchavan223@gmail.com
 
 ---
 
