@@ -1,74 +1,81 @@
-## Hi there 👋
-<h1 align="center">Hi, I'm Sarthak Sharad Chavan 👋</h1>
+# 👋 Hi, I'm Sarthak Sharad Chavan
 
-<p align="center">
-  🎓 20 y/o College Student | 💻 Web Developer | 🎤 Multilingual Rapper | 📸 Creative Explorer
-</p>
+🎓 3rd Year Engineering Student (SPPU) | 💻 Full Stack Developer | 🤖 GenAI & ML Explorer | 🧠 C++ & DSA Enthusiast | Python for AI |
 
 ---
 
-### 🧑‍💻 About Me
+## 🚀 About Me
 
-I'm a passionate and self-driven developer, currently pursuing my degree and living in a hostel. I specialize in **Full Stack Web Development**, with a growing interest in **AI**, **gesture-based games**, and **creative storytelling through rap and photography**.
+I'm a passionate engineering student with a strong foundation in **web development**, **machine learning**, and **Generative AI**. I enjoy building full-stack applications, solving real-world problems, and continuously experimenting with the latest in tech — from cloud services to LLMs and compiler design.
 
-### 🚀 Tech Stack
-
-- 💡 Languages: `HTML`, `CSS`, `JavaScript`, `C++`,`Python`
-- 🌐 Frontend: `React.js`, `Tailwind CSS`, `Framer Motion`
-- 🛠 Backend: `Node.js`, `Express.js`, `MongoDB`
-- 📦 Tools: `VS Code`, `Git`, `Netlify`, `Vercel`, `Postman`
-- 🤖 Experimenting with: `AI`, `Python`, `OpenCV`, `Vertex AI`, `Gemini`, `RAG`
+Currently working on multiple academic and personal projects ranging from web platforms like **Coding Support Hub** to **AI-based gesture games**.
 
 ---
 
-### 📂 Highlight Projects
+## 🧰 Tech Stack
 
-| Project | Description |
-|--------|-------------|
-| [MindPath](https://github.com/yourusername/mindpath) 🧠 | AI-powered goal tracker with emotional growth, habit logs, affirmations, and a coach. Built using Rocket.AI. Idea sparked from a Twitter post! |
-| [Coding Support Hub](https://github.com/yourusername/coding-support-hub) 💡 | Curated web platform for coding learners with categorized resources, custom descriptions, and clean UI. Features sections for Web Dev, Backend, DevOps & more. |
-| [Razorpay Clone](https://github.com/yourusername/razorpay-clone) 💸 | Responsive frontend Razorpay UI clone built with React and Tailwind. |
-| [Gesture-Based Games](https://github.com/yourusername/gesture-games) 🕹 | Play games using your hands! Built with Python, OpenCV, and MediaPipe. 
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarthak11234&show_icons=true&theme=radical" alt="Sarthak's GitHub stats" />
-</p>
+- **Languages:** JavaScript, C++, Python, HTML5, CSS3
+- **Frontend:** React.js, Tailwind CSS, Bootstrap
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **AI/ML Tools:** OpenCV, Mediapipe, Transformers (HuggingFace), Ollama, PyTorch
+- **Cloud & DevOps:** Google Cloud, GitHub Actions, Netlify, Vercel
+- **Tools:** Git, VS Code, Postman, Figma, Canva
+- **CS Foundations:** Data Structures & Algorithms, TOC, Operating Systems, Compiler Design
 
 ---
 
-### 🧾 Fun Facts & Current Status
+## 💡 Current Focus Areas
 
-- 📖 Exploring AI with hands-on projects like RAG & Fine-Tuning GANs
-- 📍 Pune, India 🇮🇳 | Always looking to learn, build, and collaborate
-
----
-
-### 📬 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/sarthak-chavan)
-- 📝 [Medium Blog](https://medium.com/@yourhandle)
-- 📫 Email: sarthakchavan223@gmail.com
+- 🌐 Scalable Web App Development
+- 🤖 Generative AI (LLMs, fine-tuning, prompt engineering)
+- 🧠 Machine Learning & Computer Vision
+- 🛠️ Systems Programming (Compilers, Automata Theory)
+- ☁️ Google Cloud Labs & Deployment
 
 ---
 
-> _“From hostel hacks to hardcore hacks — I'm coding my path, one repo at a time.”_
+## 🧪 Highlight Projects
 
+- 🔗 **[Coding Support Hub](https://github.com/sarthak11234/coding-support-hub)**  
+  A categorized web platform that organizes top-tier coding resources with intuitive navigation and custom descriptions.
 
-<!--
-**sarthak11234/sarthak11234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🖐️ **[Hand Gesture Based Games](https://github.com/sarthak11234/hand-gesture-games)**  
+  A Python-powered computer vision project using OpenCV & Mediapipe to build interactive games controlled by hand gestures.
 
-Here are some ideas to get you started:
+- 💳 **[Razorpay Landing Page Clone](https://github.com/sarthak11234/razorpay-clone)**  
+  A pixel-perfect clone of the Razorpay homepage showcasing responsive design, layout skills, and frontend precision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **[LLM Inference Locally (Ollama, Llama3)](https://github.com/sarthak11234/ollama-llama3-inference)**  
+  Running and debugging large language models on local machines using Ollama, exploring performance and compatibility.
+
+---
+
+## 📈 GitHub Stats
+
+![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak11234&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak11234&layout=compact)
+
+---
+
+## 🗂️ Academic Interests
+
+- Compiler Construction
+- AI + Cloud integration
+- Problem-solving with C++ & STL
+- System Design & OS Concepts
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: sarthakchavan223@gmail.com  
+- 💼 LinkedIn: [Sarthak Sharad Chavan](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)   
+
+---
+
+## 🧭 Motto
+
+> Build. Break. Learn. Repeat.
+
+Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration opportunities.
