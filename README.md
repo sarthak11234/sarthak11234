@@ -1,81 +1,84 @@
-# 👋 Hi, I'm Sarthak Sharad Chavan
+# 👋 Welcome to My GitHub Profile!
 
-🎓 3rd Year Engineering Student (SPPU) | 💻 Full Stack Developer | 🤖 GenAI & ML Explorer | 🧠 C++ & DSA Enthusiast | Python for AI |
+Hi there! I'm **Sarthak Sharad Chavan**, a third-year Computer Engineering student, Web Developer, and Machine Learning enthusiast. I love building intelligent, scalable systems and experimenting with cutting-edge technologies in AI, LLMs, and cloud computing.
 
----
-
-## 🚀 About Me
-
-I'm a passionate engineering student with a strong foundation in **web development**, **machine learning**, and **Generative AI**. I enjoy building full-stack applications, solving real-world problems, and continuously experimenting with the latest in tech — from cloud services to LLMs and compiler design.
-
-Currently working on multiple academic and personal projects ranging from web platforms like **Coding Support Hub** to **AI-based gesture games**.
+I'm passionate about creating impactful tech—whether it’s crafting fast web apps in React, exploring the internals of large language models, or deploying ML pipelines in the cloud.
 
 ---
 
-## 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, C++, Python, HTML5, CSS3
-- **Frontend:** React.js, Tailwind CSS, Bootstrap
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **AI/ML Tools:** OpenCV, Mediapipe, Transformers (HuggingFace), Ollama, PyTorch
-- **Cloud & DevOps:** Google Cloud, GitHub Actions, Netlify, Vercel
-- **Tools:** Git, VS Code, Postman, Figma, Canva
-- **CS Foundations:** Data Structures & Algorithms, TOC, Operating Systems, Compiler Design
+### 🔹 Programming & Core Concepts
+<p align="left">
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
 
----
+### 🌐 Web Development
+<p align="left">
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-## 💡 Current Focus Areas
+### ☁️ Cloud & DevOps
+<p align="left">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
 
-- 🌐 Scalable Web App Development
-- 🤖 Generative AI (LLMs, fine-tuning, prompt engineering)
-- 🧠 Machine Learning & Computer Vision
-- 🛠️ Systems Programming (Compilers, Automata Theory)
-- ☁️ Google Cloud Labs & Deployment
+### 🤖 AI & Machine Learning
+<p align="left">
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
----
-
-## 🧪 Highlight Projects
-
-- 🔗 **[Coding Support Hub](https://github.com/sarthak11234/coding-support-hub)**  
-  A categorized web platform that organizes top-tier coding resources with intuitive navigation and custom descriptions.
-
-- 🖐️ **[Hand Gesture Based Games](https://github.com/sarthak11234/hand-gesture-games)**  
-  A Python-powered computer vision project using OpenCV & Mediapipe to build interactive games controlled by hand gestures.
-
-- 💳 **[Razorpay Landing Page Clone](https://github.com/sarthak11234/razorpay-clone)**  
-  A pixel-perfect clone of the Razorpay homepage showcasing responsive design, layout skills, and frontend precision.
-
-- 🧠 **[LLM Inference Locally (Ollama, Llama3)](https://github.com/sarthak11234/ollama-llama3-inference)**  
-  Running and debugging large language models on local machines using Ollama, exploring performance and compatibility.
-
----
-
-## 📈 GitHub Stats
-
-![Sarthak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarthak11234&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak11234&layout=compact)
-
----
-
-## 🗂️ Academic Interests
-
-- Compiler Construction
-- AI + Cloud integration
-- Problem-solving with C++ & STL
-- System Design & OS Concepts
+### 🏛️ Large Language Models (LLMs)
+<p align="left">
+<img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Fine%20Tuning-9C27B0?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
 
 ---
 
-## 📫 Let's Connect
-
-- 📧 Email: sarthakchavan223@gmail.com  
-- 💼 LinkedIn: [Sarthak Sharad Chavan](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)   
+## 🚀 Projects
+Some of the things I’ve built:
+- 🧠 **LLM Playground** – Fine-tuned and deployed local LLaMA and Mistral models
+- 💳 **Razorpay Clone** – React & Node.js-based frontend and mock backend
+- 📘 **Coding Support Hub** – A categorized coding resource site with unique resource descriptions
+- 📷 **Hand Gesture Game** – Python-based hand gesture-controlled interactive game
+- 📖 **TOC & Assembler Projects** – University-based theory of computation & pass-one assembler implementation
 
 ---
 
-## 🧭 Motto
+## 📚 Currently Learning
+- 🔍 Reinforcement Learning
+- 🕸️ Web Sockets & Real-time Apps
+- 🧠 LLM Fine-Tuning with PEFT & LoRA
+- ☁️ DevOps for ML: MLflow + Docker + K8s
 
-> Build. Break. Learn. Repeat.
+---
 
-Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration opportunities.
+## 📫 Let's Connect!
+Feel free to connect or collaborate!
+
+[![LinkedIn](https://img.shields.io/badge/Sarthak%20Chavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-sharad-chavan/)
+[![E-mail](sarthakchavan223@gmail.com]
+
+---
+
+> “Code. Learn. Break. Repeat.”
+
