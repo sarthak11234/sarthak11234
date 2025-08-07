@@ -51,13 +51,14 @@ Some of the things I’ve built:
 - 💳 **Razorpay Clone** – React & Node.js-based frontend and mock backend
 - 📘 **Coding Support Hub** – A categorized coding resource site with unique resource descriptions
 - 📷 **Hand Gesture Game** – Python-based hand gesture-controlled interactive game
-- 📖 **TOC & Assembler Projects** – University-based theory of computation & pass-one assembler implementation
 
 ---
 
 ## 📚 Currently Learning
-- 🔍 Reinforcement Learning
-- 🧠 Generative AI: prompt engineering, image/video generation, local model hosting
+I'm deeply passionate about **Generative AI** and actively taking steps to upskill in this field. I'm currently completing the **Google Cloud GenAI Essentials course**, which is helping me build a strong foundation in prompt engineering, foundation models, and responsible AI. 
+
+In addition, I’m exploring:
+- 🔍 Reinforcement Learning concepts
 - 🕸️ Real-time Web Apps & Web Sockets
 - 🧪 Evaluation techniques for LLMs & multi-modal systems
 
