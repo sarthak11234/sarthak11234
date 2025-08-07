@@ -1,8 +1,8 @@
 # 👋 Welcome to My GitHub Profile!
 
-Hi there! I'm **Sarthak Sharad Chavan**, a third-year Computer Engineering student, Web Developer, and Machine Learning enthusiast. I love building intelligent, scalable systems and experimenting with cutting-edge technologies in AI, LLMs, and cloud computing.
+Hi there! I'm **Sarthak Sharad Chavan**, a third-year Computer Engineering student, Web Developer, and Machine Learning enthusiast. I love building intelligent, scalable systems and experimenting with cutting-edge technologies in AI, LLMs, and front-end development.
 
-I'm passionate about creating impactful tech—whether it’s crafting fast web apps in React, exploring the internals of large language models, or deploying ML pipelines in the cloud.
+I'm passionate about creating impactful tech—whether it’s crafting fast web apps in React, exploring the internals of large language models, or building end-to-end ML pipelines.
 
 ---
 
@@ -25,15 +25,6 @@ I'm passionate about creating impactful tech—whether it’s crafting fast web 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 🤖 AI & Machine Learning
@@ -66,19 +57,18 @@ Some of the things I’ve built:
 
 ## 📚 Currently Learning
 - 🔍 Reinforcement Learning
-- 🕸️ Web Sockets & Real-time Apps
-- 🧠 LLM Fine-Tuning with PEFT & LoRA
-- ☁️ DevOps for ML: MLflow + Docker + K8s
+- 🧠 Generative AI: prompt engineering, image/video generation, local model hosting
+- 🕸️ Real-time Web Apps & Web Sockets
+- 🧪 Evaluation techniques for LLMs & multi-modal systems
 
 ---
 
 ## 📫 Let's Connect!
 Feel free to connect or collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/Sarthak%20Chavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-sharad-chavan/)
-[![E-mail](sarthakchavan223@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/Sarthak%20Chavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-sharad-chavan/)  
+📧 Email: **sarthak11234@gmail.com**
 
 ---
 
 > “Code. Learn. Break. Repeat.”
-
