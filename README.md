@@ -115,7 +115,7 @@ My interests sit at the intersection of **AI, GenAI, ML, and Web Engineering**. 
 
 [![LinkedIn](https://img.shields.io/badge/Sarthak%20Sharad%20Chavan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-sharad-chavan/)  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sarthakkkkk8)  
-📧 **Email:** sarthak11234@gmail.com
+📧 **Email:** sarthakchavan223@gmail.com
 
 
 ---
